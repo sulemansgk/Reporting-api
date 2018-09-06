@@ -1,0 +1,24 @@
+{
+  "name": "Reporting_API",
+  "version": "1.0.0",
+  "description": "Fetches arguments and store a log into the DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "current-date": "^0.1.1",
+    "download-file": "^0.1.5",
+    "express": "^4.16.3",
+    "google-tts-api": "0.0.2",
+    "mongoose": "^5.2.6",
+    "nexmo": "^2.3.2",
+    "nodemailer": "^4.6.7",
+    "random-number": "0.0.9",
+    "request": "^2.87.0",
+    "sendmail": "^1.4.1"
+  },
+  "author": "Shahzaib Khalid",
+  "license": "ISC"
+}
